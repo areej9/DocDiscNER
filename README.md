@@ -1,5 +1,4 @@
-# DocDiscNER: Enhanced Document-Level Discontinuous NER  
-**Coordination Ellipses Resolution and Self-Consistency Decoding**  
+# DocDiscNER: Enhanced Document-Level Discontinuous NER via Coordination Ellipses Resolution and Self-Consistency Decoding**  
 
 **Authors:**  
 Areej Alhassan, Viktor Schlegel, Rina Carines Cabral, Riza Batista-Navarro, Caren Han, Josiah Poon, Goran Nenadic  
