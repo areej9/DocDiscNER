@@ -12,6 +12,7 @@ Published at **ECAI 2025**
 This repository contains the implementation of **DocDiscNER**, a document-level discontinuous Named Entity Recognition (DiscNER) framework that enhances model performance via:
 
 - **Coordination Ellipses Resolution (CER)**
+- **Document Chunking**
 - **Self-Consistency Decoding (SC)**
 
 It includes code notebooks, the CER dataset, and links to the released CER checkpoint.  
